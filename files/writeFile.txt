@@ -1,0 +1,3 @@
+New file were created and writen by writeFile()
+
+This line were appended by appendFile()

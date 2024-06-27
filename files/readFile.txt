@@ -1,0 +1,1 @@
+Hi, This text is read by readFile() module.
